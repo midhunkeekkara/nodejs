@@ -1,0 +1,2 @@
+Nodejs is an open source server environment
+Nodejs allow us to run JavaScript on the server
